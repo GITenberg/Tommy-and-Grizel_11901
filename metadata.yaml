@@ -1,5 +1,5 @@
 _repo: Tommy-and-Grizel_11901
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Partridge, Bernard
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '26310'
     url: http://www.gutenberg.org/2009/agents/26310
     wikipedia: http://en.wikipedia.org/wiki/Bernard_Partridge
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barrie, J. M. (James Matthew)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/10
     wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
 description: 'Sequel to "Sentimental Tommy", #14961.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11901#Tommy-and-Grizel
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
